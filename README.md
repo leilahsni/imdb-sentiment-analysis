@@ -17,10 +17,10 @@ In your virtual environement:
 
 2.
 
-> python classification_model.py
+> python imdb-classifier.py
 
-Two TSV files will be automatically created in data/tsv : deft-2009-test.tsv and deft-2009-train.tsv
-
-On the first run, the model.sav file will be created automatically in the model directory. If a model.sav file already exists, you will be asked wether you want to overwrite the previous model or not : type *y* for yes, *n* for no.
-
-The results (confusion matrix, classification report, model predictions, etc.) can all be found in the eval directory.
+The outfiles are :
+	- a model.pickle file
+	- a classification-model.txt file
+	- a confusion-matrix.png file
+	- a dataset.tsv file containing the entire annotated dataset
