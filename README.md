@@ -20,7 +20,11 @@ In your virtual environement:
 > python imdb-classifier.py
 
 The outfiles are :
+
 	- a model.pickle file
+
 	- a classification-model.txt file
+
 	- a confusion-matrix.png file
+
 	- a dataset.tsv file containing the entire annotated dataset
