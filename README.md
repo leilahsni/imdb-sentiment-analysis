@@ -11,11 +11,7 @@ The model gets a 94% accuracy with [scikit-learn](https://scikit-learn.org/stabl
 
 In your virtual environement:
 
-1.
-
 > pip install -r requirements.txt
-
-2.
 
 > python imdb-classifier.py
 

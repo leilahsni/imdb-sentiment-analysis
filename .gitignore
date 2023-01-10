@@ -1,0 +1,7 @@
+.gitignore
+READ-ME.txt
+.DS_Store
+data/.DS_Store
+metrics/.DS_Store
+model/.DS_Store
+data/imdb_smol/.DS_Store
